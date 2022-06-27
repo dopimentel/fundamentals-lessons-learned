@@ -7,14 +7,44 @@ body {
     color: rgb(0,0,0,0.9);
 
 }
-
+main {
+    margin-top: 100px;
+}
 #cabecalho {
     position: fixed;
     top: 0;
+    left: 0;
+    right: 0;
     background-color: green;
 }
 #titulo {
-    
+    text-align: center;
+}
+ol, ul {
+    list-style: none;
+}
 
+#licoes_aprendidas {
+
+}
+
+#minha_foto {
+    width: 200px;
+    border-radius: 50%;
+    
+}
+.lado-esquerdo {
+    position:;
+    display: inline-block;
+    width: 200px;
+    margin: auto
+}
+.lado-direito {
+    display: inline-block;
+    width: 200px;
+}
+
+#rodape {
+    text-align: end;
 }
 
