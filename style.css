@@ -7,9 +7,19 @@ body {
     color: rgb(0,0,0,0.9);
 
 }
+.botao {
+    background-color: white;
+    padding: 1px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: greenyellow;
+}
 main {
     margin-top: 100px;
 }
+
 #cabecalho {
     position: fixed;
     top: 0;
@@ -19,6 +29,7 @@ main {
 }
 #titulo {
     text-align: center;
+    font-size: 25px;
 }
 ol, ul {
     list-style: none;
