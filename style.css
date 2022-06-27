@@ -7,3 +7,14 @@ body {
     color: rgb(0,0,0,0.9);
 
 }
+
+#cabecalho {
+    position: fixed;
+    top: 0;
+    background-color: green;
+}
+#titulo {
+    
+
+}
+
